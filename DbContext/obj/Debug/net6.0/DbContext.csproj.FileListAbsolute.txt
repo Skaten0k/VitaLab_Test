@@ -1,0 +1,31 @@
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\bin\Debug\net6.0\DbContext.deps.json
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\bin\Debug\net6.0\DbContext.dll
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\bin\Debug\net6.0\DbContext.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\bin\Debug\net6.0\Model.dll
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\bin\Debug\net6.0\Model.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.csproj.AssemblyReference.cache
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.AssemblyInfoInputs.cache
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.AssemblyInfo.cs
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.csproj.CoreCompileInputs.cache
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.csproj.Up2Date
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.dll
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\refint\DbContext.dll
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\ref\DbContext.dll
+C:\Users\xarra\source\repos\VitaLab_Test\DbContext\obj\Debug\net6.0\DbContext.sourcelink.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\bin\Debug\net6.0\DbContext.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\bin\Debug\net6.0\DbContext.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\bin\Debug\net6.0\DbContext.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\bin\Debug\net6.0\Model.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\bin\Debug\net6.0\Model.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.csproj.Up2Date
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\refint\DbContext.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\DbContext.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\DbContext\obj\Debug\net6.0\ref\DbContext.dll

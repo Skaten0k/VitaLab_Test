@@ -1,0 +1,35 @@
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\ViewModel.deps.json
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\DbContext.dll
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\Model.dll
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\DbContext.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.csproj.Up2Date
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.dll
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\refint\ViewModel.dll
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ref\ViewModel.dll
+C:\Users\xarra\source\repos\VitaLab_Test\ViewModel1\obj\Debug\net6.0-windows\ViewModel.sourcelink.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\ViewModel.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\DbContext.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\Model.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\DbContext.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.csproj.Up2Date
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\refint\ViewModel.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\ViewModel1\obj\Debug\net6.0-windows\ref\ViewModel.dll

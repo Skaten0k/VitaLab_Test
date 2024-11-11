@@ -1,0 +1,135 @@
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\View.exe
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\View.deps.json
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\View.runtimeconfig.json
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\View.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\View.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Model.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View_MarkupCompile.cache
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View_MarkupCompile.lref
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.g.resources
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.csproj.Up2Date
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\refint\View.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\ref\View.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\DbContext.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\DbContext.pdb
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\xarra\source\repos\VitaLab_Test\View\obj\Debug\net6.0-windows\View.sourcelink.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\View.exe
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\View.deps.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\View.runtimeconfig.json
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\View.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\View.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\DbContext.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Model.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\ViewModel.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\ViewModel.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\DbContext.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View_MarkupCompile.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View_MarkupCompile.lref
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.g.resources
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.csproj.Up2Date
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\refint\View.dll
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.pdb
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+C:\Users\xarra\OneDrive\Рабочий стол\VitaLab_Test-master\View\obj\Debug\net6.0-windows\ref\View.dll
